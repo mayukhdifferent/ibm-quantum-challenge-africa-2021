@@ -61,3 +61,29 @@ We hosted a live Q&A prior to the challenge start with a panel consisting of con
 #### Still have more questions?
 
 Please let us know if you have any additional questions in the [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153) in the [Qiskit Slack](https://ibm.co/joinqiskitslack) workspace. 
+
+## IBM Quantum Lab
+
+### Why am I seeing the error "Failed: 401 Client Error: Unauthorized for URL"?
+
+The challenge platform requires that you are logged in with a full IBMid, and not a social-media account like GitHub. If you are not using an IBMid to login, please register an account **using the same email you registered with.** This should resolve the above error.
+
+### Why am I seeing the error "Login with some authorized provider required."?
+
+This error is shown if you are logging in with a social-media account like GitHub. Please see the solution given for the above question, `Why am I seeing the error "Failed: 401 Client Error: Unauthorized for URL"?`
+
+### Why am I seeing the error "Your request cannot be processed. The System cannot process your request."?
+
+This error may occur if you have two accounts and one is logging in automatically. To resolve this, navigate to [ibm.com](https://ibm.com), disable auto login, logout, close all IBM tabs except one, and re-login to the challenge website.
+
+### Why am I seeing the error "Failed: Gateway Time-out"?
+
+To resolve this issue, try restarting your Python kernel by pressing the refresh icon at the top of the Jupyter notebook/IBM Quantum Lab interface. However, keep in-mind that this will reset all of your Python variables, so you will have to re-run your notebook code cells. If this does not resolve the issue, ping @africa_mentor or @africa_admin in the challenge Slack channel: [#challenge-africa-2021](https://qiskit.slack.com/archives/C02C8MKP153).
+
+### Why am I seeing "Error 524" when I load the IBM Quantum Lab?
+
+The IBM Quantum Lab and IBM Quantum Challenge Africa 2021 teams may need to update the platform at certain points during the challenge. If you encounter this error, you should wait about 5-10 minutes before trying again. By that stage, the server should have successfully updated.
+
+### Why am I seeing "File Save Error for lab-xxxx, Invalid Response: 403"?
+
+Try logging out and back in on the IBM Quantum platform and the challenge website. This should resolve this issue.
