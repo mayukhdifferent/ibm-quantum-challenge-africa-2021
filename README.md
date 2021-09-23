@@ -1,5 +1,11 @@
 # IBM Quantum Challenge Africa 2021
 
+# Submitted Solutions by Mayukh Mukhopadhyay
+
+# [Lab 1 Solution to Qunatum Optimization Tasks](https://github.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/blob/main/content/lab1/lab1_Submitted_Solution.ipynb)
+# [Lab 2 Solution to Quantum Finance Tasks](https://github.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/blob/main/content/lab2/lab2_Submitted_Solution.ipynb)
+# [Lab 3 Solution to Quantum Chemistry Tasks](https://github.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/blob/main/content/lab1/lab3_Submitted_Solution.ipynb)
+
 To ensure Africa is able to apply quantum computing to solve problems relevant to the continent, the IBM Research Lab in South Africa and the University of the Witwatersrand have developed a quantum computing challenge that focuses on the fields of optimization, finance, and chemistry. This challenge will boost participant's quantum computing skills and give them the tools to devise the best solutions to real-world issues faced in Africa.
 
 The challenge exercises are developed by African researchers for African learners, researchers, and industry professionals. Participants need not have any formal education in quantum computing, as the challenge focuses on its application to already existing classical problems.
