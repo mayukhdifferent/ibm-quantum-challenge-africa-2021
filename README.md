@@ -2,7 +2,7 @@
 
 # Submitted Solutions by Mayukh Mukhopadhyay
 
-![IBM Quantum Challenge Africa 2021]((https://raw.githubusercontent.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/main/IBM_Challenge_Africa.gif)
+![IBM Quantum Challenge Africa 2021](https://raw.githubusercontent.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/main/IBM_Challenge_Africa.gif)
 
 # [Lab 1 Solution to Quantum Optimization Tasks](https://github.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/blob/main/content/lab1/lab1_Submitted_Solution.ipynb)
 # [Lab 2 Solution to Quantum Finance Tasks](https://github.com/mayukhdifferent/ibm-quantum-challenge-africa-2021/blob/main/content/lab2/lab2_Submitted_Solution.ipynb)
